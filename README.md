@@ -49,8 +49,10 @@ Welcome to the Security Analysis repository! Here, we dive deep into the digital
 Our codebase, fueled by Python magic, churns through the survey data with unparalleled precision. Harnessing the power of analytics, we unlock insights into the cyber security practices of our surveyed companies. Prepare to be dazzled by the revelations we uncover! ✨🚀
 
 
-## Group Member 👥🔒
-
+## Group Members 👥🔒
+  
+- [Naqi Raza](https://github.com/naqirraza99)
+   
 - [Hassaan Ali Bukhari](https://github.com/B3TA-BLOCKER)
 
 - [Rooshan Riaz](https://github.com/rooshanriaz)
